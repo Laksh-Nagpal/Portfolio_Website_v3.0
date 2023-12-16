@@ -1,12 +1,18 @@
 ---
 import BaseLayout from "../layouts/BaseLayout.astro";
+import TimeLineElement from "../components/cv/TimeLine.astro";
 ---
 
-<BaseLayout title = "404: Not Found" includeSidebar={false}>
-  <div class="text-center">
-    <h1 class="text-9xl font-bold mb-4">🏝</h1>
-    <h1 class="text-9xl font-bold mb-2">404</h1>
-    <h3 class="text-2xl">The page you're looking for couldn't be found.</h3>
-    <a class="btn btn-accent mt-9" href="/">Home</a>
+<BaseLayout title="Contact" sideBarActiveItemID="contact">
+  <div class="mb-5">
+    <div class="text-3xl w-full font-bold"<p style="text-align:center"></p>Contact</div></p><br>
+    <p style="text-align:center">Please feel free to contact me for anything!</p>
   </div>
-</BaseLayout>
+
+
+  <ul class="list-disc md:columns-1 columns-2 mx-6">
+    <li><p><a href="mailto: lakshnag2004@gmail.com"><u>Email Me</u></a></p></li>
+    <li>Connect with me on <a href = "https://www.linkedin.com/in/lakshay-nagpal-6475661b1/"><u>LinkedIn</u></a></li>
+    <li>Talk to me on <a href = "https://www.instagram.com/laksh_nagpal_/"><u>Instagram</u></a></li>
+  </ul>
+  
