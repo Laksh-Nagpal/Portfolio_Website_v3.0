@@ -60,3 +60,4 @@ heroImage: "/CoachBot.png"
             function change (element) {
                 element.classList.toggle("fullsize");
             }
+
