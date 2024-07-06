@@ -24,6 +24,7 @@ heroImage: "/Anxi.png"
 <li style="color:#F5F5F5;">Anxi has facilitated over <b>1500 therapy sessions for 200 users</b>, saving users <b>$18,000 in free therapy</b>.</li>
 
 <h3 style = "color:#E0B0FF">Sample Chat </h3>
+<p style="color:#F5F5F5;">* <i>Click Phone Screen to Enlarge</i></p>
 
 <style>
     .img {

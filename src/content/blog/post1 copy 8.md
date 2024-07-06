@@ -1,8 +1,8 @@
 ---
-title: "Cognizant"
+title: "Anytime Eats"
 description: "A Machine Learning-Based Diagnostic Tool for Neurodevelopmental Disorders."
 pubDate: "June 2023"
-heroImage: "/Cognizant.png"
+heroImage: "/anytime.png"
 ---
 <h1 style="text-align:center;color:#A020F0;font-family:Arial"><b>Cognizant</b></h1>
 
@@ -49,6 +49,8 @@ heroImage: "/Cognizant.png"
             function change (element) {
                 element.classList.toggle("fullsize");
             }
+
+
 
 
 

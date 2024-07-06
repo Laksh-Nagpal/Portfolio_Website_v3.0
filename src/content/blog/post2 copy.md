@@ -19,6 +19,7 @@ badge: ""
 <li style="color:#F5F5F5;">Developed an <a style = "color:#6CB4EE;" href = "https://drive.google.com/file/d/1PElz2bpS3eu5L16_rvQ1td6C0tbdMmvz/view?usp=sharing"> <b>implementable business plan</b></a> that received district, state, and international recognition.
 
 <h3 style = "color:#E0B0FF;">Mobile Application </h3>
+<p style="color:#F5F5F5;">* <i>Click Phone Screens to Enlarge</i></p>
 
 <style>
     .img {
