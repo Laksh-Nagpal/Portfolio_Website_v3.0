@@ -21,5 +21,7 @@ digitized, automated banking </li>
 
 <iframe src="https://utexas-my.sharepoint.com/personal/ln8345_my_utexas_edu/_layouts/15/Doc.aspx?sourcedoc={82680972-0007-4c92-a006-59e05cfa00dc}&amp;action=embedview&amp;wdAr=1.7777777777777777" width="600px" height="400px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
 
+<h3 style = "color:#E0B0FF;"> Awards </h3>
 
+<li style="color:#F5F5F5;"> 2nd Place in the Group Stage Round </li>
 
