@@ -22,6 +22,18 @@ heroImage: "/Dermetric_white.png"
 
 <li style="color:	#F5F5F5;"><b>Frontend:</b> A web and mobile app were coded out using react that is available for use here: <a style = "color:#6CB4EE;" href="https://cashel.dev/Dermetric/" target="_blank">https://cashel.dev/Dermetric/</a></h4><br>  </li>
 
+<h3 style = "color:#E0B0FF;">Presentation</h3>
+
+<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAF_53ltWqk&#x2F;BML2lb-AtJsZ3WVS0r0qXw&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAF_53ltWqk&#x2F;BML2lb-AtJsZ3WVS0r0qXw&#x2F;view?utm_content=DAF_53ltWqk&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Dermetric Final Presentation</a> by Laksh Nagpal
+
+
 <h3 style = "color:#E0B0FF;">Figma Wireframe</h3>
 <p style="color:#F5F5F5;">* <i>Click Phone Screens to Enlarge</i></p>
 

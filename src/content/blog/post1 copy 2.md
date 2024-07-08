@@ -29,6 +29,7 @@ Executed <b>15 stakeholder analysis interviews</b> and <b>three proof of concept
 </div>
 <a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGA6k-VDuM&#x2F;V71MAo0r2l4TQcZWYb6_AQ&#x2F;view?utm_content=DAGA6k-VDuM&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Asthmetric SYI Presentation</a> by Laksh Nagpal
 
+
 <h3 style = "color:#E0B0FF;">Mobile Application </h3>
 <p style="color:#F5F5F5;">* <i>Click Phone Screens to Enlarge</i></p>
 
